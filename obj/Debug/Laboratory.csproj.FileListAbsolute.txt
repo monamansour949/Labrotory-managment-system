@@ -1,0 +1,15 @@
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\bin\Debug\Laboratory.exe
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\bin\Debug\Laboratory.exe.config
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\obj\Debug\Laboratory.csproj.AssemblyReference.cache
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\obj\Debug\Laboratory.csproj.SuggestedBindingRedirects.cache
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\obj\Debug\Laboratory.Form1.resources
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\obj\Debug\Laboratory.LoginForm.resources
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\obj\Debug\Laboratory.PatientForm.resources
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\obj\Debug\Laboratory.Properties.Resources.resources
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\obj\Debug\Laboratory.csproj.GenerateResource.cache
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\obj\Debug\Laboratory.csproj.CoreCompileInputs.cache
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\obj\Debug\Laboratory.exe
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\obj\Debug\Laboratory.pdb
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\bin\Debug\Laboratory.pdb
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\obj\Debug\Laboratory.DoctorForm.resources
+E:\AssuitI-ITI\Freelancing\Desktop app\Laboratory\Laboratory\obj\Debug\Laboratory.TestForm.resources
